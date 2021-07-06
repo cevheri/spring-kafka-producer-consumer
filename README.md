@@ -8,7 +8,8 @@
 * Lombok
 * H2 DB
 
-
+### Reference:
+https://github.com/wurstmeister/kafka-docker
 
 Start Zookeeper:
 $ zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
